@@ -91,7 +91,7 @@ nav li:hover{
 main{
     width: 100%;
     height: auto;
-    background-image: url("/storage/emulated/0/code/photos/images\ \(7\).jpeg");
+    background-image: url("images (7).jpeg");
     background-repeat: no-repeat;
     background-position: center ;
     background-size: cover;
