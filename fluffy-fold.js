@@ -2,18 +2,18 @@ let imgContainer = document.getElementById('img-container')
 
 function changeBg(){
     let images = [
-        'url("/photos/images (1).jpeg")',
-        'url("/photos/images (2).jpeg")',
-        'url("/photos/images (3).jpeg")',
-        'url("/photos/images (4).jpeg")',
-        'url("/photos/images (5).jpeg")',
-        'url("/photos/images (6).jpeg")',
-        'url("/photos/images (6).jpeg")',
-        'url("/photos/images (7).jpeg")',
-        'url("/photos/images (8).jpeg")',
-        'url("/photos/images (9).jpeg")',
-        'url("/photos/images (10).jpeg")',
-        'url("/photos/images (11).jpeg")',
+        'url("images (1).jpeg")',
+        'url("images (2).jpeg")',
+        'url("images (3).jpeg")',
+        'url("images (4).jpeg")',
+        'url("images (5).jpeg")',
+        'url("images (6).jpeg")',
+        'url("images (6).jpeg")',
+        'url("images (7).jpeg")',
+        'url("images (8).jpeg")',
+        'url("images (9).jpeg")',
+        'url("images (10).jpeg")',
+        'url("images (11).jpeg")',
         
         
     ]
